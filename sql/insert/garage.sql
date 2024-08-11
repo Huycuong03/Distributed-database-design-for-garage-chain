@@ -1,0 +1,12 @@
+﻿insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Tây Hồ 1', '6261213506', 'bgallahue0@histats.com', '685 Lạc Long Quân, Tây Hồ, Hà Nội');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Hoàng Mai', '8764929378', 'lshurrock1@amazon.co.uk', '300 Trần Điền, Định Công, Hoàng Mai, Hà Nội');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Tây Hồ 2', '5395988175', 'zraittie2@baidu.com', '500 Võ Chí Công, Tây Hồ, Hà Nội');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Bắc Từ Liêm', '2208928104', 'boselton3@yolasite.com', '217 Phạm Văn Đồng, Xuân Đỉnh, Bắc Từ Liêm, Hà Nội');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Hoài Đức', '1969345263', 'kgoggins4@skype.com', 'Khu 6, Phố Trạm Trôi, Hoài Đức, Hà Nội');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage', '7922625790', 'cmarchetti5@homestead.com', '196 Trần Phú, TP. Tuyên Quang, Tuyên Quang');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Ngô Quyền', '6211821724', 'gholligan6@1und1.de', 'Lô 26BC, Lê Hồng Phong, Đông Khê, Ngô Quyền, Hải Phòng');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage An Dương', '9488503256', 'vwestwood7@tripod.com', 'KM11, QL 5, Tân Tiến, An Dương, Hải Phòng');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Cẩm Phả 1', '6913593329', 'tcottesford8@foxnews.com', 'Đông Bến Do, Khu 6C, Cẩm Phả, Quảng Ninh');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Hạ Long', '8708875889', 'ngatehouse9@networksolutions.com', 'Ô 10, Lô 8+9, Bãi Cháy, Hạ Long, Quảng Ninh');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Cẩm Phả 2', '9634953397', 'vwoolisa@bing.com', '418 Lê Thanh Nghị, Cẩm Thủy, Cẩm Phả, Quảng Ninh');
+insert into garage ([name], phone#, email, [address]) values ('Hà Thành Garage Biên Hòa', '6819111024', 'sfrancoisb@cbslocal.com', '160 Nguyễn Ái Quốc, Trảng Dài, Biên Hòa, Đồng Nai');

@@ -1,0 +1,15 @@
+insert into brand (name) values ('Audi');
+insert into brand (name) values ('Mazda');
+insert into brand (name) values ('Pontiac');
+insert into brand (name) values ('Jeep');
+insert into brand (name) values ('Lincoln');
+insert into brand (name) values ('Lexus');
+insert into brand (name) values ('Dodge');
+insert into brand (name) values ('Hummer');
+insert into brand (name) values ('Chevrolet');
+insert into brand (name) values ('Mercedes-Benz');
+insert into brand (name) values ('Ford');
+insert into brand (name) values ('Hyundai');
+insert into brand (name) values ('BMW');
+insert into brand (name) values ('GMC');
+insert into brand (name) values ('Toyota');
